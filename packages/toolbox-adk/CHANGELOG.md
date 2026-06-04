@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.7.0](https://github.com/googleapis/mcp-toolbox-sdk-python/compare/toolbox-adk-v1.0.1...toolbox-adk-v0.7.0) (2026-06-04)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump aiohttp in /packages/toolbox-llamaindex ([#676](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/676)) ([4475b56](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/4475b567bd73972f36e22af40170ed0d700cdf68))
+* **deps:** update python-nonmajor ([#657](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/657)) ([6697b20](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/6697b20eadab6967475dcd7579db363d07510d13))
+* **toolbox-llamaindex:** release v0.7.0 ([#656](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/656)) ([bdbfd48](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/bdbfd487be2c7470372c494ebad315b11e01c160))
+
 ## [1.0.1](https://github.com/googleapis/mcp-toolbox-sdk-python/compare/toolbox-adk-v1.0.0...toolbox-adk-v1.0.1) (2026-05-18)
 
 
