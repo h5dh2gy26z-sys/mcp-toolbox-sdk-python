@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.7.0](https://github.com/googleapis/mcp-toolbox-sdk-python/compare/toolbox-langchain-v1.0.1...toolbox-langchain-v0.7.0) (2026-06-04)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump aiohttp in /packages/toolbox-llamaindex ([#676](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/676)) ([4475b56](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/4475b567bd73972f36e22af40170ed0d700cdf68))
+* **deps:** update dependency aiohttp to v3.14.0 [security] ([#677](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/677)) ([4d69795](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/4d6979578d777de76b6db62d1b75cb4e9af5e9c3))
+* **deps:** update python-nonmajor ([#657](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/657)) ([6697b20](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/6697b20eadab6967475dcd7579db363d07510d13))
+* **toolbox-llamaindex:** release v0.7.0 ([#656](https://github.com/googleapis/mcp-toolbox-sdk-python/issues/656)) ([bdbfd48](https://github.com/googleapis/mcp-toolbox-sdk-python/commit/bdbfd487be2c7470372c494ebad315b11e01c160))
+
 ## [1.0.1](https://github.com/googleapis/mcp-toolbox-sdk-python/compare/toolbox-langchain-v1.0.0...toolbox-langchain-v1.0.1) (2026-05-18)
 
 
